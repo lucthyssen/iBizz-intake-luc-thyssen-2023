@@ -1,0 +1,20 @@
+.player-list li{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons{
+    margin: 20px;
+    position: absolute;
+    gap: 20px;
+    top: 0;
+    left: 0;
+}
+
+.new-player-form{
+    gap: 20px;
+}
+
+.new-player{
+    margin: 30px 0px;
+}
